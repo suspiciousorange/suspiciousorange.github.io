@@ -1,0 +1,11 @@
+html{
+    background:url(https://cdn.pixabay.com/photo/2019/01/09/14/13/leaves-3923413_960_720.jpg);
+    background-size:20%;
+  }
+
+.bodyContainer{
+    max-width:600px;
+    position:relative;
+    border:solid 3px black;
+    border-radius:10px;
+    margin:0px auto;  
