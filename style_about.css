@@ -6,6 +6,6 @@ html{
 .bodyContainer{
     max-width:600px;
     position:relative;
-    border:solid 3px black;
+    border:solid 6px black;
     border-radius:10px;
     margin:0px auto;  
